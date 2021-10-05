@@ -2,9 +2,10 @@
 ## Instrucciones para el desarrollo de CADA pregunta práctica
 1. Crear un proyecto en [Replit](https://repl.it/login)
 2. Crear el enlace de invitación al proyecto de Replit del paso 1
-3. Colocar el enlace de invitación en la entrada de texto de la pregunta en Canvas
+3. Colocar el enlace de invitación en un documento
 4. Solucionar el problema
-5. Realizar el [pull request](https://github.com/Julianqll/PC1/blob/main/README.md#c%C3%B3mo-hacer-un-pull-request) de la solución del problema a la rama correspondiente de este repositorio
+6. Realizar el [pull request](https://github.com/Julianqll/PC1/blob/main/README.md#c%C3%B3mo-hacer-un-pull-request) de la solución del problema a la rama correspondiente de este repositorio
+7. Cuando termine de resolver todas las preguntas, el documento debe ser enviado a julianmql@gmail.com
 
 ## ¿Cómo hacer un pull request?
 ### Usando GitHub
