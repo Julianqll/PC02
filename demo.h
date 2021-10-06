@@ -7,7 +7,7 @@ using namespace std;
 
 const TX nElem = 10;
 
-TX vect[nElem] = {4,6,1,8,9,3,5,10,2};
+TX vect[nElem] = {4,6,1,8,9,3,5,10,2,7};
 
 void demoLinkedListSorted()
 {
